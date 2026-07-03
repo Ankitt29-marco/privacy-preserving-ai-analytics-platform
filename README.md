@@ -1,4 +1,7 @@
 # Privacy-Preserving AI Analytics Platform 🚀
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Overview
 Privacy-Preserving AI Analytics Platform is a secure AI analytics system that enables organizations to analyze data while protecting sensitive information. It combines Federated Learning, Privacy-Preserving ML, Encryption, and RAG-based AI analysis to build a privacy-focused intelligent system.
 
